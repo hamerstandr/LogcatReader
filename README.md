@@ -1,2 +1,2 @@
 # LogcatReader
-Android kotlin read fies Logcat
+Android kotlin read files Logcat
